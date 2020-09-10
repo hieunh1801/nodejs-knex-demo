@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-knex-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hieunh1801/nodejs-knex-demo",
+  "author": "Nguyen Huu Hieu <hieunh21@fpt.com.vn>",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.21.5",
+    "mysql": "^2.18.1"
+  }, 
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
